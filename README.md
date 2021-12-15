@@ -1,3 +1,3 @@
 # auto_match_2
 
-autostring
+egorstring
